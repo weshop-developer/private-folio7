@@ -1,0 +1,9 @@
+name = "private-folio7"
+compatibility_date = "2024-12-05"
+main = "src/index.ts"
+assets = { directory = "dist", binding = "ASSETS" }
+
+[[d1_databases]]
+binding = "DB"
+database_name = "portfolio-db"
+database_id = "0f0b63bf-62c4-45b0-980a-5c44833768ad" # User to fill
